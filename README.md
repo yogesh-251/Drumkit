@@ -1,2 +1,2 @@
-# Drumkit
-Drum to play sounds. [Just for learning purpose]. Open index.html to view in your browser.
+## [Drumkit](https://yogesh-251.github.io/Drumkit/)
+Drum to play sounds. For learning purpose. Click [here](https://yogesh-251.github.io/Drumkit/) to play in your browser.
